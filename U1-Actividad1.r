@@ -3,7 +3,7 @@
 #  Autor: Carlos Eduardo Hoyos Rojas 
 #  UUNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
 #  Este trabajo ha sido escrito y compilado utilizando
-#  
+#  Fedora Packages of R Software y RStudio
 
 
 library(epiDisplay)
